@@ -2,17 +2,17 @@
   "OdishaCaseReport": [
     {
             "id": 1,
-      "Name": "Odisha (ଓଡ଼ିଶା)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Nameod": "Odisha (ଓଡ଼ିଶା)",
+      "TotalCasesod": "1583792",
+      "TotalDeathsodod": "34968",
+      "TotalRecoveredod": "1020582",
+      "TotalCasesood": "1.58M",
+      "TotalDeathswod": "34.96K",
+      "TotalRecoveredrod": "1.02M",
+      "TotalIncod": "52.12K+",
+      "TotalDecod": "775+",
+      "TotalRecod": "32.55K+",
+      "Conditionod": "Need to improve"
     }
   ]
 }
